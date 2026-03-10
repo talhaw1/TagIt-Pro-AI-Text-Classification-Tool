@@ -1,0 +1,6 @@
+text,top_label,confidence,needs_review,all_scores
+The delivery was fast and excellent service!,praise,0.9039665460586548,False,"{""praise"": 0.9039665460586548, ""question"": 0.05201960355043411, ""feature request"": 0.034344736486673355, ""complaint"": 0.005168335046619177, ""bug"": 0.004500756040215492}"
+I cannot log into my account.,bug,0.338801771402359,True,"{""bug"": 0.338801771402359, ""complaint"": 0.3347172737121582, ""question"": 0.2286790907382965, ""feature request"": 0.08995170891284943, ""praise"": 0.007850092835724354}"
+Please add dark mode to the app.,feature request,0.7540456056594849,False,"{""feature request"": 0.7540456056594849, ""question"": 0.11367997527122498, ""complaint"": 0.10933836549520493, ""bug"": 0.015150731429457664, ""praise"": 0.007785355672240257}"
+Worst experience ever.,complaint,0.7768146991729736,False,"{""complaint"": 0.7768146991729736, ""question"": 0.16294726729393005, ""bug"": 0.032104041427373886, ""feature request"": 0.021950513124465942, ""praise"": 0.006183454766869545}"
+How can I reset my password?,question,0.7311691641807556,False,"{""question"": 0.7311691641807556, ""feature request"": 0.19861316680908203, ""complaint"": 0.056021712720394135, ""bug"": 0.011832388117909431, ""praise"": 0.0023636070545762777}"
